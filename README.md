@@ -1,6 +1,6 @@
 # RNnavigation_drawer
 
 
-![Demo](https://gph.is/g/ZdjXmOw)
+![](https://gph.is/g/ZdjXmOw)
 
 
