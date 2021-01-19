@@ -50,14 +50,14 @@ const Drawer = createDrawerNavigator();
     </NavigationContainer>
 
 ```
-## Packages version's
+## Packages version
  "react": "16.13.1"
  
  "react-native": "0.63.4"
  
  "@react-navigation/drawer": "^5.11.5"
  
-## Run commands -
+## Run command
  "android": "react-native run-android"
  
  "ios": "react-native run-ios"
