@@ -38,15 +38,28 @@ pod install
 import { createDrawerNavigator } from '@react-navigation/drawer';
 import { NavigationContainer } from '@react-navigation/native';
 
+
 const Drawer = createDrawerNavigator();
+
+
 <NavigationContainer>
       <Drawer.Navigator initialRouteName="Home">
         <Drawer.Screen name="Home" component={HomeScreen} />
         <Drawer.Screen name="Notifications" component={NotificationsScreen} />
       </Drawer.Navigator>
     </NavigationContainer>
-```
 
+```
+## Packages version's
+ "react": "16.13.1"
+ "react-native": "0.63.4"
+ "@react-navigation/drawer": "^5.11.5"
+ 
+## Run commands -
+ "android": "react-native run-android"
+ "ios": "react-native run-ios"
+ 
+ 
 ## Contributing
 
 
