@@ -52,11 +52,14 @@ const Drawer = createDrawerNavigator();
 ```
 ## Packages version's
  "react": "16.13.1"
+ 
  "react-native": "0.63.4"
+ 
  "@react-navigation/drawer": "^5.11.5"
  
 ## Run commands -
  "android": "react-native run-android"
+ 
  "ios": "react-native run-ios"
  
  
